@@ -85,3 +85,8 @@ letters present in the string.
 For example, given the string s = dabbcabcd, the list of all characters in
 the string is [a, b, c, d]. Two of the substrings that contain all letters are
 dabbc and abcd. The shortest substring containing all the letters is 4 characters long, abcd.
+
+Sample Input :
+              bab
+Sample Output :
+              2
