@@ -1,3 +1,6 @@
+Download the Assignments.Zip, unzip it and import in Eclipse as "Existing project to Workspace"
+configure the java version to Java 1.8 in the project
+
 There are 3 programs in the project Assignment
   1.ListMax
   2.MinimunArea
